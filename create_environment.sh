@@ -80,4 +80,5 @@ fi
 echo " now you can execute"
 bash ./submission_reminder_app/app/reminder.sh
 EOF
-chmod +x ./submission_reminder_app/startup.sh echo "you have successfully created a file./submission_reminder_app/startup.sh with info"
+chmod +x ./submission_reminder_app/startup.sh
+echo "you have successfully created a file./submission_reminder_app/startup.sh with info"
